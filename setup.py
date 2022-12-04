@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='pyexample',
+    name='DSSS_HW5_Let_it_snow',
     version='0.1.0',    
     description='A example Python package',
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/manikmalik1999/DSSS_HW5_Let_it_snow/',
     author='Manik Malik',
     author_email='manik.malik@fau.de',
     license='BSD 2-clause',
-    packages=['pyexample'],
+    packages=['DSSS_HW5_Let_it_snow'],
     install_requires=['mpi4py>=2.0',
                       'numpy',                     
                       ],
