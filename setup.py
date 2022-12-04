@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='DSSS_HW5_Let_it_snow',
+    name='Snowflake',
     version='0.1.0',    
     description='A example Python package',
     url='https://github.com/manikmalik1999/DSSS_HW5_Let_it_snow/',
     author='Manik Malik',
     author_email='manik.malik@fau.de',
     license='BSD 2-clause',
-    packages=['DSSS_HW5_Let_it_snow'],
+    packages=['Snowflake'],
     install_requires=['mpi4py>=2.0',
                       'numpy',                     
                       ],
